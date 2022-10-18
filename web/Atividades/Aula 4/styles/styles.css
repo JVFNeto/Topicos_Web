@@ -1,0 +1,22 @@
+p{
+    color: rgb(95, 216, 38);
+    width: 200px;
+    border: 1px solid rgb(0, 102, 255);
+    background-color: white;
+    margin: 100px; /* de fora */
+    padding: 20px; /*de dentro*/
+} 
+
+body{
+
+    background-color: black;
+
+}
+
+#primeiro{
+
+    color: rgb(189, 17, 132);
+    width: 500px;
+    border: 1px solid rgb(225, 250, 3);
+    background-color: aqua;
+}
